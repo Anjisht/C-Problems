@@ -9,15 +9,12 @@ int main()
     for(i=2;i<=300;i++)
     {
         num=i;
-        printf("\n%d",num);
+        if(num==2)
+            printf("\n%d is a prime number.",num);
         for(a=(num-1);a>=2;a--)
         {
-            if(a==1)
-                printf("\n%d is a prime number.",num);
             if(num%a==0)
-            {
                 break;
-            }
             if(a==2)
                 printf("\n%d is a prime number.",num);
 
