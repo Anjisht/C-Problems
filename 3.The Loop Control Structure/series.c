@@ -1,4 +1,4 @@
-/*To add seven terms of series:1/1!+2/2!+....*/
+/*To add seven terms of series:1/1!+2/2!+.... */
 /*Author:Anjisht Amritanshu*/
 /*Date:4/2/2021*/
 #include<stdio.h>
