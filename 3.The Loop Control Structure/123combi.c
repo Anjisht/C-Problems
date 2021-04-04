@@ -1,5 +1,4 @@
 /*To generate all combination of 1,2,3 */
-/*Author: Anjisht Amritanshu*/
 /*Date:3/4/2021*/
 #include<stdio.h>
 int main()  
