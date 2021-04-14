@@ -1,0 +1,6 @@
+CPROGRAM.code-workspace
+workspace.code-workspace
+.vscode/settings.json
+practice/practice.c
+practice/practice.exe
+.vscode/c_cpp_properties.json

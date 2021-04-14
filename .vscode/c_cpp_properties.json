@@ -3,7 +3,6 @@
         {
             "name": "Win32",
             "includePath": [
-               "C:/Users/anjis/Documents/C Programs/Header File/**"
             ],
             "defines": [
                 "_DEBUG",
