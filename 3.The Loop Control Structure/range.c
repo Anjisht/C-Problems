@@ -9,6 +9,11 @@ int main()
     char ch=0;
     printf("\nHow many numbers are there in set?");
     scanf("%d",&n);
+    if(n<0)
+        {
+            printf("Invalid");
+            exit(0);
+        }
     while(n>0)
     {
     printf("\nEnter number=");
