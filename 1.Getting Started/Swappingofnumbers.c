@@ -1,6 +1,7 @@
-main()
+#include<stdio.h>
+int main()
 {
-    float c,d,t;
+    float c,d;
 
     printf("Enter value of c=");
 
@@ -10,11 +11,9 @@ main()
 
     scanf("%f",&d);
 
-    t=c;
-   
-    c=d;
-   
-    d=t;
+    c=c+d;
+    d=c-d;
+    c=c-d;
 
     printf("Value of c=%f",c);
     printf("Value of d=%f",d);
